@@ -1,0 +1,142 @@
+
+#bg{
+    background-color: rgb(241, 237, 228);
+    max-width:1400px;
+    margin:auto;
+    width:100%;
+}
+
+
+#section{
+    max-width:1000px;
+    box-sizing: border-box;
+    width:100%;
+    margin:auto;
+    padding:auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skil{
+    font-weight: 600;
+    font-size:25px;
+    color:black;
+}
+
+.button{
+    width:150px;
+    height:40px;
+    background-color: rgb(6, 6, 75);
+    border-radius: 20px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+#headtext{
+    max-width:1000px;
+    box-sizing: border-box;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.h1{
+    max-width:100px;
+}
+
+.headtext1{
+    max-width:1000px;
+    box-sizing: border-box;
+    margin:0 auto;
+}
+
+.art{
+    max-width: 300px;
+    color:grey;
+}
+
+.button:nth-child(1){
+    background-color: rgb(226, 43, 150);
+    margin-right:50px;
+    
+}
+#str{
+    max-width:1000px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.houu{
+    display:flex;
+    flex-direction: column;
+    width:200px;
+    background-color: white;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 1px 1px 50px rgb(179, 177, 177);
+    
+    
+}
+
+.hou{
+    color:grey;
+    font-size: 20px;
+}
+.skil:nth-child(2){
+    color: black;
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+#section2{
+    margin-top:50px;
+    display:flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.box{
+    max-width:300px;
+    background-color: rgb(255, 251, 245);
+    border-radius: 20px;
+    padding:20px;
+    height:200px;
+}
+
+.box:nth-child(1){
+    background-color: rgb(226, 43, 150);
+    color:white;
+    font-size:25px;
+    font-weight: 600;
+}
+
+.txt{
+    font-size:18px;
+    font-weight: 600;
+}
+
+.txt1{
+    color: rgb(226, 43, 150);
+    font-weight: 600;
+
+}
+
+#footer{
+    margin-top:50px;
+    background-color: rgb(22, 22, 88);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+}
+.skil1{
+    color:white;
+    font-weight: 600;
+    font-size:25px;
+}
